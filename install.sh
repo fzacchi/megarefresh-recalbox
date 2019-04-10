@@ -20,7 +20,7 @@ chmod +x megarefresh-onstart.sh
 chmod +x megarefresh-onend.sh
 
 cp "es_systems.cfg" "/recalbox/share_init/system/.emulationstation/"
-cp "recalbox.conf" "ndocazzova"
+cp "recalbox.conf" "/recalbox/share/system/"
 
 echo
 echo "Zak's MegaRefresh Script v1.0 installed/updated successfully."
