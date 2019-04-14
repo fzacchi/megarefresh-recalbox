@@ -25,6 +25,6 @@ sed -i 's/global.videomode=CEA 4 HDMI/global.videomode=default/g' /recalbox/shar
 sed -i 's/global.videomode=CEA 4 HDMI/global.videomode=default/g' /boot/recalbox-backup.conf
 
 echo
-echo "Zak's MegaRefresh Script v1.0 installed/updated successfully."
+echo "Zak's MegaRefresh Script v1.1a installed/updated successfully."
 
 sleep 5
